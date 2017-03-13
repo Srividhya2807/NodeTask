@@ -1,0 +1,19 @@
+{
+  "name": "assigment",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "task"
+  },
+  "author": "vidhya",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-domain-middleware": "^0.1.0",
+    "mongodb": "^2.2.24",
+    "mysql": "^2.13.0"
+  }
+}
